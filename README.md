@@ -40,4 +40,8 @@ The AI evaluates board states using a heuristic function, factoring:
 
 ---
 
+## Demo
 
+
+
+[Screencast from 2025-07-17 23-09-01.webm](https://github.com/user-attachments/assets/42ec2bd5-f54c-42ea-b26b-71d55a1f2622)
